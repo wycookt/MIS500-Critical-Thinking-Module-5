@@ -1,4 +1,4 @@
-# MIS500-Critical-Thinking-Module-5
+# MIS500-Hypothesis-Testing-Using-Restraunt-Scores
 Hypotheses Testing Using “R” Program
 
 Hypotheses Testing Using “R” Program
